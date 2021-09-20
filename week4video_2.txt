@@ -1,0 +1,294 @@
+Michael Franz: Hi everybody, I'm back. And I want to talk for a little while
+now about political advertising and this is my, my favorite topic and Michael
+Franz: We're going to spend some more time on it later in the semester when we,
+when we see the ads that are airing and the races that you're tracking Michael
+Franz: And it's fun to watch these ads and the ads are appearing now in so many
+different ways their TV ads or Facebook ads or Google Search Ads. Michael
+Franz: Ads galore their ads on Hulu. I've been watching some shows on Hulu and
+I've seen a lot of ad Gideon ads on who their ads on on radio streaming
+services like Pandora. Michael Franz: political ads before videos on YouTube.
+They're everywhere. And so we've got so much data we don't know what to do with
+it. But we've got pretty good consistent data on TV advertising and chapter
+eight and identity crisis talks about the likely effect of advertising in the
+2016 campaign. Michael Franz: And it points out that in fact Clinton's ads
+probably were generally effective, but that there weren't enough of them to
+make the difference in in closer races and Michael Franz: So many other factors
+were happening and going on in the fall of that year, but that advertising is
+important and it's an important component about campaigns and take shape.
+Michael Franz: Now 111 way that it's important, is it is a way for us to
+document what the campaigns are saying and what they think the campaign is
+about. But another way is to see Michael Franz: The possible effects of those
+ads. We can't say much about effects at this point, I'll talk more about
+effects. Michael Franz: When we talk about political ads. I've spent a lot of
+time trying to estimate the effects of ads on on voters. Michael Franz: But I
+want to talk a little bit about two aspects of of the campaign that are a
+campaign ads that I think are relevant. Michael Franz: The first is, again,
+what it says about the priorities of the candidates what they think are
+important for voters to know and then I want to talk about the volume
+differences, the effects of Michael Franz: Or at least I should say that the
+distribution of ads across the country and and whether one candidate is airing
+more ads than another candidate now. Michael Franz: On 2016. One of the things
+that the book mentions and this is it comes out of some of the research I've
+done on TV ads in 2016 Michael Franz: Is that, as you know, Clinton tried to
+make the campaign about Trump's moral PERSONAL FAILINGS and spend a lot of time
+hearing advertisements. Michael Franz: Like one of the famous ones called role
+models that simply played some tracks of Trump speaking and repeating a lot of
+misogynistic statements against Michael Franz: Young images of with young girls
+and and and and young people watching Trump say these things, pointing out that
+he's not a role model. Michael Franz: Certainly not a role model to shouldn't
+be a role model to women and it's definitely not a role model to young people
+more generally wouldn't want your, your child. Michael Franz: To look up to
+someone like Donald Trump. That was the message that that Clinton was was
+sending in her campaign ads. Michael Franz: And we can quantify that. And we
+can quantify that in very interesting ways. And I want to show you some data
+from 2016 that the authors of identity crisis allude to Michael Franz: And then
+I want to show you some data from from 2020 based on what we know so far. So
+when, when we look at ads. We can code ads on a variety of characteristics one
+characteristic that we can code ads on is its tone, we can say is this ad
+solely about the opposing candidate. Michael Franz: Is this ad solely about the
+favorite or sponsoring candidate or is this ad feature both candidates. If the
+ad is only about the opposing candidate, we might call that an attack ad
+Michael Franz: Without necessarily knowing anything about what's in it. If the
+ad is solely about you as a candidate. Well, we might call that a positive and
+under the assumption that you would only say nice things about yourself.
+Michael Franz: And if the ad mentions both you might call it a positive and a
+negative and we might call that contrasting and so we have positive, negative,
+and contrast ads as a distinction Michael Franz: We can ask coders to assess
+what issues are being mentioned in the ads and we can also ask coders to assess
+ads on this next question, which is, do you think the ad is primarily about
+policy issues. Michael Franz: Is it about the poor about the personal
+characteristics of the candidates or do you think the ad is equally about both
+Michael Franz: And interestingly, when we asked coders this question, we say,
+what does the ad primarily about because even policy ads can have implications
+about the PERSONAL FAILINGS or Michael Franz: pluses of a campaign and even
+personality focused ads can implicitly be about policy issues. Michael Franz:
+We're interested in what the primarily the ad is about is this ad really
+talking about policy matters. Michael Franz: Is it really talking about
+PERSONAL FAILINGS or personal characteristics or is it really about both
+Michael Franz: And so we've been asking that question to coders for 20 years
+and we have 20 years of data to analyze and I've put up for us a graph that
+shows some of the data that we've collected over the years and I need to
+Michael Franz: Let's see. Michael Franz: I need to share my screen. Once that
+Michael Franz: window is open and it will show it to me. Good. So I've put this
+in Blackboard and it's ads by focus in the presidential election, and I'm a
+little write up on this. Michael Franz: And you can see that we can look at
+22,000 2004 2008 2012 and 2016 and we look at ads in the same time period
+overall these campaigns June 8 Michael Franz: To Election Day in all of these
+years, June 8 by June 8 the nominees were known in each party. And so it's it's
+sort of an unofficial beginning of the general election. That's sort of common
+across all the campaigns. Michael Franz: And this looks at the sponsored ads by
+the candidates and whether the ads were primarily about policy matters personal
+matters, or both. Michael Franz: And this is about all the airings of all their
+ads. So this counts up all the the air at times and add airs across the country
+in the general election, and then just count the percentage of ads that aired
+or about policy matters personal characteristics or both. And, you know,
+Michael Franz: Clinton's stroke a strategy and in 2016 stands out. It really
+stands out in the comparison. Michael Franz: In almost all the case in all the
+cases, except for maybe McCain in 2008 and I'll say something about that in a
+minute. Michael Franz: And almost all of the comparisons in all the
+comparisons. But those two. So in eight other campaigns, more than 60% of the
+ads aired in the general election of the presidential campaign. We're about
+Michael Franz: policy matters primarily more than 60% and sometimes even higher
+than that bush spent 75% of his time advertising time talking about policy
+matters. Michael Franz: Gore spent over 60% of his time bush spent over 60% of
+his time talking about policy matters carry in 2004 Kerry spent about three
+quarters talking about policy matters. Michael Franz: Romney and 2012 spend
+over 80% of his time talking about policy matters and Obama about three
+quarters on policy matters, the personal characteristics focus Michael Franz:
+Is is, you know, relatively small in most of these years, almost non existent
+in the Bush v. Gore campaign. Michael Franz: A little bit president in Bush v.
+Kerry in 2004 reach them as talking a little bit about their own personal
+characteristics, how, why they are the right leader for the country or why
+Michael Franz: The other candidate is a flawed candidate bush is talking about
+911 he's promoting his own his own considered moral leadership Carrie is
+talking about his, his history in Vietnam and talking about his, his
+background. Michael Franz: In 2008 we see some a little bit of divergence with
+McCain where MCCAIN IS CAREFUL, he goes after Obama a lot Michael Franz: But he
+mixes it with policy matters. So McCain has a lot of ads in 2008 that call into
+question Obama's personal Michael Franz: Fitness for office is too
+inexperienced he's he's, he hasn't done anything in his life of any substance.
+I have. I was a POW and and a lot of personal stuff, but also mixing it with
+policy and so coders assessed. A lot of these ads is both Michael Franz: Not a
+lot of direct attacks for McCain on Obama's fitness for office, but a lot of
+promotion from Obama about his own personal background and not a lot of attacks
+on on McCain in that regard. Michael Franz: But still an overwhelming focus in
+most of these campaigns on on policy matters. Michael Franz: In 2016 Clinton
+spends most of her time and this doesn't show this in this figure, but she
+doesn't spend a lot of time talking about her own personal characteristics.
+Michael Franz: Not almost none of this in here is her airing advertisements
+about her personal qualities. Almost all of these advertisements are about like
+the book talks about role model. Ads. Ads that play Michael Franz: Track of
+Trump talking and point out that he's is impossible for us to imagine in the
+White House. And this approach from Clinton. Michael Franz: We've never seen
+this approach from a presidential candidate in the in the 16 years of data at
+the time that we had Michael Franz: Yeah, there are some campaigns that focus
+on personal characteristics in the ad buys but almost all of these are a mix of
+positive and negative mentions positive mentions of themselves negative
+mentions of the opponent. Michael Franz: This is all negative mentions of Trump
+as a person and it's the lowest focus in the campaign that campaigns that we
+have on policy matters. So there isn't a lot of both going on here from
+Clinton. Michael Franz: And there isn't a lot of policy going on in front of
+the only one in four of cleanse ads focused primarily on policy matters, you
+know, somewhere like 60% Michael Franz: Are a little more focused on the
+personal feelings of Trump and that is a remarkable change from previous
+elections and it's important to put that context. Michael Franz: That
+historical context, alongside the analysis that the authors do in chapter seven
+and eight, and especially in chapter eight. Now we do have some initial data
+from 2020 and I wanted to share that with you. It's pretty rough and ready
+Michael Franz: One problem that we oftentimes have is, we're still assessing
+what's called inner coder reliability. Michael Franz: In our quarter
+reliability is where you ask coders who code an ad to code other people's
+coated ads. And then you ask those folks to code the first coders ads and you
+try to see how how often they get the same answer. Michael Franz: On these
+kinds of qualitative or subjective questions in previous years are in a quarter
+reliability tests on inner on these personal policy distinctions have been
+pretty good. Michael Franz: Because we train the coders really well in 2020 our
+numbers are pretty low on the quarter reliability. So I'm going to show you
+numbers from 20 Michael Franz: But we don't fully believe them yet, because we
+need to go and do some quality control on the coders assessments. Michael
+Franz: And have some ads coated again, but it gives us a, you know, I believe
+these numbers, but I think I couldn't publish with these numbers because our
+inner coder reliability tests need to get Michael Franz: A little better for
+2020 anyway. But I've been doing and running some some numbers. So I'm going to
+show you Michael Franz: This Statistical Package called status, where I don't
+have a fancy graph for us on this one because we're just these are numbers hot
+off the presses. These are for ads that have aired between April 9 so that's
+this year's general election period and Michael Franz: September 13 so we don't
+have the full campaign yet and so you'll see the Democrat here in this case
+that's Biden. So this is just Biden ads and the Republican. That's just Trump
+ads. Michael Franz: And then we have person versus policy distinctions. We have
+some that are neither here, the person personal ads policy ads and then both
+and then I'm showing the row per cents. Michael Franz: Here, the real percent
+of the percent across the row cross the line and they some 200 so you can see
+that the Democrat Biden has aired about 34% of his ads are primarily about
+policy matters. Michael Franz: That's a much lower than Clinton's in 2016 about
+54% of his are primarily policy matters and then 10% of both. So if you combine
+the both with the personal Michael Franz: You know, Biden is is spending about
+440 percent little less than half of his ads on some personal matters either
+his own self or critiques of of Trump Michael Franz: That's much lower than
+Clinton, but still much higher than other the other the other candidates in the
+graph. I just showed you. Michael Franz: Trump is spending almost all of his
+ads are about policy matters. Now that might mention the sort of anarchy that
+might ensue if bide were elected. But if anarchy and Sue's if Biden is elected
+is not Michael Franz: A primarily policy or personal attack on Biden as a, as a
+person. It is a message about the policy consequences of electing bite. Michael
+Franz: So even the tough law and order messages that Trump has been airing in
+the summer are still policy ads because they're focused on Michael Franz: The
+concern would happen if you elect Joe Biden. Not that Joe Biden is sleepy. You
+hear that sleepy Joe Biden attack all the time in Trump's tweets, but they
+don't show up in his ads. It's really about Michael Franz: The policy issues
+that Trump is either promoting or that he is critiquing. And so you can see the
+distinction here again between the two campaigns. Michael Franz: Biden spending
+plenty of time talking about personal matters and Trump, not so much and and
+that's kind of what we saw in 2016 too. And so Michael Franz: Now, some people
+have said that Clinton should have done more policy based messages and and and
+I think that's probably right people. People prefer those over personal
+attacks. Michael Franz: I don't know if that would have won the election or not
+this time around. You can see some cautiousness in the Biden campaign and
+adopting the same approach that that Clinton did in 2016 Michael Franz: But
+that may change if the campaign over the course of the next 40 or so days.
+Michael Franz: But that's the difference between 2016 and 2020 is Biden shifted
+a little bit more towards policy, but still 55% is below that 60% threshold
+that I talked about. Michael Franz: With the other bunch of candidates besides
+Clinton and McCain focus overwhelmingly on policy matters. So that's, I think,
+an interesting thing to think about the next is to talk about volume effects or
+volume differences and the the book and Chapter eight mentions for us. Michael
+Franz: The balance of advertising. This is in Figure 812 on page 192 the
+balance of advertising in in the campaign from June, all the way to Michael
+Franz: Election Day. Well, I have the same set of data that the authors do and
+I wanted to look at the 2020 balance. And so I put that into Blackboard. And
+let me just show that to you here. Michael Franz: Here you can see Trump is
+focusing and over 70% of his ads on policy matters. This time around, he's up
+to 90% so we'll see how that changes over the next 40 days, um, Michael Franz:
+Let's see. Michael Franz: Here I have two sets of data for us. And this this
+mirrors the exact structure in Figure 812 Michael Franz: From the book. So each
+of these dots as the the footnote in the figure talks about is a medium market.
+Michael Franz: And a medium market is like Portland, Maine, and all of the
+surrounding areas that can see ads in our TV shows in the Portland, Maine
+market and or Boston Michael Franz: or New York or Philadelphia or Baltimore
+New Orleans Milwaukee Detroit. These are all big metro areas. Michael Franz:
+Where the TV signal extends into the suburbs around those areas and those
+become are called media markets that 210 media markets in the country. Michael
+Franz: So if you count up the number of ads that Trump and Biden and all their
+allies have aired on each media market on each day. Michael Franz: And you plot
+that from April when the general election started when Bernie finally dropped
+out, which is about 208 days before election day, all the way up to the latest
+data we have which is September 13 Michael Franz: You have media market by day
+and you just plot the number of ads that Biden aired minus the number of ads
+that Trump has aired Michael Franz: And anything above zero is a market day
+we're Biden has more ads. Anything below zero is a market day where Trump has
+more ads. Michael Franz: And then you can just see what's happening in the ad
+more. And this is exactly what figure 12 has for 2016 and so I'll show you
+below here just a smoother fit. Michael Franz: But you can see here that
+there's a bunch of days and markets were in especially out here where Trump is
+out advertising Biden. Michael Franz: And then it appears as if Biden has
+turned the title, a little bit and started out advertising Trump and you can
+see that down here. Now this numbers, this, this, this moving average to sort
+of just gets a sort of sense of the trend line. Michael Franz: Is under is an
+understatement of of the likely importance here for one I've made the y axis,
+the same y axis distance that's in figure a 12 Michael Franz: Negative 600
+positive 600 but the range here as much tighter. If I were to just show you.
+Negative 200 200 you'd see these numbers, you know, zoom in on them. And you'd
+see Michael Franz: You know, more movement in in the graph. And the reason why.
+It understates things is because look over here, you know, in this stretch of
+time. Michael Franz: First of all, in Figure 812 there aren't many days where
+Trump is out advertising Clinton. If you go back and look Clinton a consistent
+advertising lead throughout the campaign and they mentioned that and Michael
+Franz: She was out advertising a lot well in the early part of the general
+election Trump was out advertising by. And if you think about each of these as
+a market. Michael Franz: Each one each of these appear as a market and a day.
+This is the sort of moving average of all of that. And if you can imagine every
+single day. Michael Franz: For, you know, day in and day out, day in and day
+out. There are more ads on TV for Trump, and by every single day over and over
+and over again. The message dominance that builds up Michael Franz: For Trump
+is extensive across the country 10s of thousands of ads overwhelming the amount
+of ads that Biden is airing and so these numbers here look just a little below
+zero. Michael Franz: But it's a consistent if you if you would graph. Say for
+example, the cumulative at moving average, if that is a thing that exists, but
+the cumulative effect of all these Michael Franz: Ad buys Trump would be
+building big, big leads and how many ads were on TV across the country on
+behalf of him. Michael Franz: And so he's really pummeling Biden and has
+consistent advantages but then at some point in the summer, we start to see
+Biden spend more money and Biden starts to bounce out with Trump and then for a
+while, roughly in the Michael Franz: August period through through much of up
+until roughly now by has been out advertising Trump and has been doing so. So
+did so significantly for a chunk of time in here, day after day after day.
+Michael Franz: Out advertising Trump in media markets across the country. And
+by the time you hit September 13 we're back to around even Michael Franz: On
+average day in and day out across these media markets and you can see that over
+here to you see there are, there's sort of a gap here aren't many dots down
+here because Biden is is is really going strong. Michael Franz: And then we've
+seen this lead sort of constrict and we start to see more days over here where
+Trump in some places has more ads on TV. And so that's why it's pulling the
+number to roughly zero line and so Michael Franz: You know what we know in
+political science is that if you out advertise your opponent. Michael Franz:
+You'll do better, right, because there are more messages on TV more messages
+going to voters that say good things about you. Michael Franz: And less than
+say good things about them. And so people are seeing that information and
+they're taking that information and higher doses. Michael Franz: And that's,
+you know, an important way to pick up, pull numbers well balanced means that it
+can cancel out good messages for you are balanced out by bad messages. Michael
+Franz: About you, and good messages for them or balanced out by your bad
+messages about them. And so it all kind of cancels. And so you want to have an
+advantage of the advertising totals. And you can see how Michael Franz: Trump
+did for a while then Biden did for a while. And as we get closer to election
+day, we can track and see what that looks like. Michael Franz: Once we get
+towards the final part of the campaign. And so, you know, the two things about
+advertising that I think kind of emerged for me. Michael Franz: In this chapter
+eight that are relevant to us here is those two points about how we can learn
+something about the priorities of the candidates and what they say in their ads
+and certainly a priority of Clinton was to point out Trump's failings. Some
+extent that's being Michael Franz: borne out by Biden's approach, but with more
+policy focus. And the other thing is to look at the balance of ads and to see
+Michael Franz: Who's up and who's, who's down and some of that will help move
+the poll numbers so Michael Franz: Have you here, eager to hear what you
+thought about those those aspects and look forward to chatting. Michael Franz:
+And and in addition to all the other great stuff that's in these chapters, and
+by the end of this conversation. Michael Franz: And this discussion around this
+book, I think we have a really solid basis on which to analyze Michael Franz:
+And and dig into the 2012 presidential campaign and look for these dynamics.
+This cycle, to the extent that we can. We don't have the same survey data.
+Michael Franz: That the authors of identity crisis do, but we could pick up on
+what the narrative in the media is about this campaign and look for some of
+that stuff in the polling data when we have it so. Michael Franz: Thanks for
+listening and I will, I will talk to you all very soon. 

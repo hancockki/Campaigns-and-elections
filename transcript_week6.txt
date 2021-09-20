@@ -1,0 +1,553 @@
+Michael Franz: Hi everybody, welcome to Week six where we're going to talk
+about campaign finance and a lot today. I want to spend a fair amount of time
+walking us through some of the some of the online resources that we can use to
+Michael Franz: To track campaign financing and and then look up some examples
+and play with some of those websites, a little bit and then I encourage you to
+do the same. Michael Franz: For your campaigns in the coming week we won't see
+new data on there, as I'll show you in a second. We're still waiting on the
+reporting to happen in the third quarter of Michael Franz: The election year,
+but those data will be available to us by the second half of October and into
+the aftermath of the election. Michael Franz: And then we'll be able to dig
+into those data a little bit before we we finish up the semester I Michael
+Franz: wish we had more up to date data, but it's it's a lot of reporting that
+campaigns have to do and to process all the money that's coming into campaigns
+and being moved around by various committees. Michael Franz: It's not easy to
+have that sort of up to date in real time digitally and available to the
+public. But there are a lot of resources online for us to see what we do have
+Michael Franz: And there are mandates that campaigns report fairly frequently
+up to the elite up to the election. So we have data, but it's not perfect.
+Michael Franz: And so I want to walk us through a variety of those those issues
+today in the second lecture, I'll spend some more time talking a bit more
+normatively Michael Franz: About what I think are some of the underlying
+debates in the role of campaign finance. It's a bit more of a of a thought
+lecture than a sort of walking us through some some nuts and bolts. So first,
+though, there's, there's a lot of ways to attack this Michael Franz: Let me
+Michael Franz: I'm going to show you a bunch of things today. But I want to
+start with perhaps some basic overview Michael Franz: I'm going to move in and
+out of this slideshow now and then. Michael Franz: Show you some stuff online.
+And then, and then I'll come back to this PowerPoint in second hand or at least
+in the second lecture of week so Michael Franz: You know, there's a lot of ways
+to think about this. And the first way to think about this is to talk about as
+the book does Michael Franz: The players that the kinds of entities that we
+will see who are involved in campaign finance. Michael Franz: I've left off
+individuals from this list but individuals we as citizens are really the
+primary players we we donate Michael Franz: Most of the money in campaigns even
+packs which donate money to candidates are raising most of their money from
+citizens affiliated with the pack. So at the end of the day, most of the money
+in elections comes from the pocketbooks Michael Franz: Of American voters. If
+you trace it all the way back. And so, you know, we're interested in the sort
+of candidates their fundraising and the rules for them part of committees, the
+Democratic and Republican parties and they have a bunch of Michael Franz:
+Subsidiary committees that do work in various campaign environment. So the
+Democratic Party has the democratic congressional campaign committee with the D
+triple C as they call it. Michael Franz: Which just does fundraising for the
+party and House races. They also have the democratic Senatorial Campaign
+Committee, which does fundraising for the party and Senate races and then each
+Michael Franz: Each state has a Democratic Party, Wisconsin, the Democratic
+Party of Montana. So there are a lot of different party committees affiliated
+with the broader Democratic Party and the same is true for republicans Michael
+Franz: There are traditional packs. These are packs formed by labor unions or
+corporations or ideological groups to raise money from their members and donate
+that money to candidates. Michael Franz: There are now super PACs, which I'll
+talk more about in just a second. And then there are nonprofit groups that are
+not officially political action committees are Michael Franz: Officially packs
+that register with the Federal Election Commission which collects and regulates
+all this money and I'll show you their website in a minute. Michael Franz: But
+they claim to be there sort of free to do some electioneering work, but they
+also claim to not be primarily interested in elections, but to be primarily
+interested in Michael Franz: Educational advocacy of issues, but they end up
+doing a lot of a lot of electioneering Michael Franz: So there's a couple of, I
+think, a core things that I want us to consider. You don't have to agree with
+me on any of this, but to consider when we go through all this. Michael Franz:
+Which is that I would argue, and I don't think again, these are not universal
+truths and these are not Michael Franz: Without debate, but I would argue that
+can candidate fundraising is something that we could consider pretty contained
+Michael Franz: Pretty well contained given the rules as they exist at the
+federal level. Let me jump ahead here to this next slide and show you what I
+mean by that. This is from the Federal Election Commission. This is the
+contribution limits from donors to recipients to certain recipients Michael
+Franz: In the 2019 2020 election cycle. The some of these limits change from
+cycle to cycle as our index to inflation. For example, contributions will go up
+as Michael Franz: As inflation goes up, but and some don't. But, but these are
+the 2019 2020 presidential election cycle figures. Michael Franz: And so the
+interesting thing here is this candidate committee, calm down over here, which
+shows us what candidates can raise in the maximum from different dumbs Michael
+Franz: So individuals can contribute at most $2,800 per election to to a
+candidate per election in this case means primary election and PR general
+election. So if a candidate wants to raise 20 $800 from for me in their primary
+campaign that's an election and then I could give them 20 $800 Michael Franz:
+For their general reaction I can give him up upwards of $5,600 I won't, because
+I don't have that much money to give to candidates, but I could I could get
+$5,600 Michael Franz: To candidates if they have a primary campaign, most, most
+candidates do so, but that's the most that I can give us the most that Bill
+Gates can give. It's the most that Zuckerberg can give. It's the most that any
+wealthy individual can give to a candidate directly Michael Franz: Candidates
+can give money to other candidates, but that's limited packs right here, not
+really interested Michael Franz: In the differences between multi candidate
+normal to candidate or really uninteresting unimportant their context to your
+most packs or multi candidate packs, but they can only give a maximum of $5,000
+or 20 $800 to Michael Franz: TWO CANDIDATES per, per election party committees
+can give some money to candidates, but that's limited and the National Party
+committee can give some money to candidates, but that's limited. So the most
+that a candidate can receive from Michael Franz: Any donor for any election
+that they're running is Michael Franz: $5,000 at most for party committees and
+for packs and 20 $800 from individuals. And I would argue that that's Michael
+Franz: Pretty. It's a pretty containing process. It's one of the reasons why
+candidates. Michael Franz: Have a hard time raising money because they, and
+what The Book says they're often recommended that they should spend four hours
+a day on the phone. Michael Franz: Raising money because it. You just can't
+call up a wealthy person and say give me a million bucks. Michael Franz: Just
+not allow some of us have been talking about campaign financing in our
+discussion groups and kind of talking, and I'm going to say in a cavalier way.
+Michael Franz: It's because we don't know the rules yet about how groups have
+given candidate candidate extra candidate why so many millions of dollars they
+can't do that they can spend that money, independent of the candidate. Michael
+Franz: On their behalf, which is what I'll talk about below but they can't they
+can't give that money to a candidate directly Michael Franz: I would argue two
+parties are not are somewhat pretty contained. I would say that's an arguable
+more arguable a statement in part because there's a whole bunch of Michael
+Franz: Bigger contribution limits that are out there. So state, you know, here
+again we can see state and local party committees national party committees.
+Michael Franz: A little bit in the weeds, for us, but the party committees are
+allowed certain additional accounts for things like national conventions.
+Michael Franz: legal fees and so forth. And so the reason why I say it's
+arguable is because if you are an individual and you wanted to give a lot of
+money to a party and Michael Franz: Kind of be a big deal. The limits are very
+high. So $10,000 to state and local parties per year. So that's $20,000 for a
+two year cycle. Michael Franz: 35,500 per year to the national party can nice
+there's $70,000 per cycle. And then these additional accounts of which the
+parties can have up to three. Michael Franz: I can give them $106,000 per year
+per additional account. So that's $200,000 times three of these kind of special
+accounts that exists as $600,000 plus 70 $670,000 so you can see that as a
+wealthy individual I could if I kind of exploited these limits up here could
+give parties. Michael Franz: Hundreds and hundreds of thousands of dollars
+within the legal limit every election cycle. Michael Franz: And the limits for
+packs are a bit smaller than they are for individuals and so party spent a lot
+of time fundraising. Michael Franz: These big dollar donors and the party's
+themselves can raise money, money in that way. But nonetheless, the limits are
+kept. Michael Franz: The $100,000 limit over here is for events, like I
+mentioned legal fees recount these conventions, those can be used for ads or
+for electioneering things. And so the election year in money. Michael Franz: Is
+in this category over here and that is smaller than than millions and millions
+of dollars. So you might make the argument to that parties. Michael Franz: Have
+you know a pretty significant caps on what they can spend or what they can
+raise from from wealthy individuals traditional packs also not a real real
+concern, in my opinion, if you look at traditional packs. Let's say these pack
+or over here. You look at PAX Michael Franz: Here's their fundraising limits
+but $5,000 per year from any and all of potential donors. Michael Franz: And
+there are even more limits on on who they can raise money from which we can't
+get into now. But the short of it would be that a union pack could only raise
+money from Michael Franz: Individuals who are in the Union, and not necessarily
+from from the broader public. And so there are limits on who these paths can
+raise money from Michael Franz: And there are limits on how much of that money
+that they can donate to candidates. And so within the sort of system of
+candidates parties and traditional packs. I would argue that there are pretty
+decent limits on where that money goes and comes from men. Michael Franz: There
+are many concerns with their parents system but but not as Michael Franz: Not
+around the issue of wealthy donors. Michael Franz: bankrolling a campaign and
+spending millions of dollars to pump up their work, chest, for example. Michael
+Franz: But there are big concerns and other areas. The two biggest concerns or
+at least two biggest players that have Michael Franz: I think the biggest
+potential to be worrisome Russ are the super PACs and the dark money groups.
+Now what are, what are those I call them dark money groups over here, they're
+referred to as nonprofit groups. Michael Franz: But they're largely many cases
+the same thing. First, a Super PAC is a pack. It's a blue Action Committee
+organized by Michael Franz: People who are interested in influencing politics.
+They don't donate directly to any candidates. So in this graph over here. You
+don't see Michael Franz: Super PAC listed. You see multi candidate novelty
+candidate. Sometimes they're called SSF it's all interesting legal words but
+they're all traditional packs super PACs are not on that. Michael Franz: Table
+because they can't donate to parties and they can't donate to candidates. All
+they can do is spend money, independent of them. Michael Franz: To air ads or
+to try to get people to turn out to vote. They can't they can't do any direct
+contributions. Michael Franz: But in return they can raise unlimited donations,
+and so they can get donations of unlimited size. Michael Franz: From
+individuals. And so the super PACs often will go out and have big dollar
+fundraisers, and they might raise a million dollar contribution from Mark
+Zuckerberg or a $5 million contribution from a Michael Franz: Corporate CEO.
+That's where the big million dollars goes into these super PACs. Michael Franz:
+nonprofit groups can do the same thing. They're called dark money groups.
+Oftentimes, though, because they don't have to tell the FEC we won't find them
+on the FEC website. Michael Franz: They don't have to tell the FTC where they
+got their money, which is kind of worrisome. So that's called dark money
+because we can't see where it's coming from. So you might form a nonprofit, I
+might go on formed a nonprofit called the Center for a better America. Michael
+Franz: The foundation for a better America or American workers for the 21st
+century, give it any name you want, I'll register with the IRS is a nonprofit
+group. Michael Franz: And then I'll go out and raise 10s of millions of dollars
+from my friends. Michael Franz: Actually don't have any friends who have that
+much money, but if I did, I could and I wouldn't have to tell anybody where I
+got the money and then I could go use that money to advertise Michael Franz:
+And competitive Senate races, trying to get Republicans elected or democrats
+elected and so that's that's where the concern is, is all this money, big money
+going into super PACs and dark money groups. Michael Franz: Now I say, but the
+only saving grace here, if you will, in that negative story is that the
+spending is supposed to be. Michael Franz: uncoordinated with the candidates.
+It's supposed to be independent spending the campaign has no influence
+whatsoever on what my foundation or center is doing. Michael Franz: And if they
+do talk to me and say, Can you put more ads up on TV and such and such market
+that will be breaking the law, they're not supposed to talk to me. I'm not
+supposed to talk to them. Michael Franz: And so technically the candidates may
+benefit from these super PAC and dark money efforts, but it's not because
+they're working together. It's because the super PAC and the dark money Uber
+independently deciding that they want to help you out. Michael Franz: They want
+to help a candidate out Michael Franz: Now a lot of people call into question
+whether or not there. It really is uncoordinated. But that's the formerly the
+law is that they're not supposed to work together. I just want to show you,
+just as an example, a sort of a way in which groups get around this. Michael
+Franz: How do you want to call it, get around the coordination band and they
+sometimes get around the coordination ban. Bye. Michael Franz: Creatively
+actually. And one way to do it is to use b roll footage. So a candidate can't
+tell the Center for American Progress to air ads on their behalf, but they can
+say Michael Franz: Imagine them issuing a press release saying we don't have
+enough money we're running low on funds, we need to stay competitive against
+our opposition. Michael Franz: We need to put more ads on TV, you know, donate
+today. Right. Well, people will donate to as a result. But also, that's a
+signal to potential super PACs and nonprofits that maybe that's a race. We need
+to go into Michael Franz: So those are super PACs and nonprofits might say,
+Okay, we're going to buy a bunch of ads. Michael Franz: In that candidates race
+because they just had a press release saying they need the money. And so let's
+go help them out. And that's not coordination, but you know, I'm the candidate.
+It's a signaling that I need the money and so that group comes on in Michael
+Franz: The group is going to make ads and they're gonna put them on TV. Now,
+they can't work with me. Michael Franz: If I'm the candidate to make the ads
+and and it would be good if they had really good footage of the candidate to
+make the ads more Michael Franz: personable to make the ads more persuasive.
+Otherwise, they're going to dig around Google to look for images of the
+candidate. Michael Franz: Put those images in the ad and it's not going to look
+as good as a candidate add that shows them walking down the street with
+constituents and things like that. So candidates decided, well, Michael Franz:
+Why don't we give them that footage. Like, I can't formally give it as a
+candidate to the group. But what if I just put it on my website like just
+footage of me walking around and made it available to anybody. Michael Franz:
+And you know just there. So they did that, they started filming themselves
+campaigns are filming themselves with sort of where they call b roll footage
+Michael Franz: And then they just put it on their website, or they put it on
+their YouTube page and then a group will look to see if the candidate has B
+roll. Michael Franz: And they can use that be role because it's publicly
+available to the public domain and they'll put that inside Michael Franz: Their
+ads. And so now all of a sudden the super PAC and dark money group ads look
+really slick because they feature the candidates, so Michael Franz: It's it's
+tricky rights clever. It's not mobile coordination, but it's it's clearly
+trying to to coordinate back channels. So here's an example of them be footage
+Michael Franz: This is from 2014 but it's still, it's still us. So this is Thom
+Tillis when he was running in 2014 so we're watching his race this cycle to
+this is his, on his website. Two minutes. We won't watch the whole thing.
+Michael Franz: Why they have to have a music track some of them don't. But here
+he is walking around chatting away. Michael Franz: Jumping at Michael Franz:
+Now he's with the constituents. Michael Franz: There's this this light. Michael
+Franz: Fullness hands you know buses arms. Michael Franz: Right, I would look
+good in an ad Michael Franz: Okay, more pictures. Michael Franz: close up shot.
+Michael Franz: Looking serious Michael Franz: Making a point Michael Franz:
+Meeting with business people. Michael Franz: Alright, so the groups use that
+they put in their ad right here's Kay Hagan she was running for reelection. She
+was a Democrat 2014 she lost. She also said B roll. Michael Franz: Talking with
+constituents. Michael Franz: This is free code, right, so we're Michael Franz:
+Talking on the front porch. Michael Franz: Getting into it constituents.
+Michael Franz: Walking with important people. Michael Franz: Doctors Michael
+Franz: So you can see, like, you know, this is creative ways in which the
+campaign's Michael Franz: Try to try to get try to help out the groups that are
+doing the work for them. And the next lecture, I'll talk about how important
+these groups have become to advertising and races and raises some concerns for
+us. But this is sort of, I think, the area of biggest concern is the Michael
+Franz: Is the role of outside groups and the inability to sort of track dark
+money and the capacity to somehow work around the coordination band. Michael
+Franz: Between the candidate and the outside groups in the realm of of Michael
+Franz: Fundraising the direct fundraising that happens. I tend to think that
+the contribution limits are pretty good at keeping wealthy donors from having a
+direct and Michael Franz: Say nefarious impact on the money that campaigns
+directly have and use. So let's, let's talk about that. Let's talk about some
+of the resources that are available to us to to track this so I'm going to go
+back to Michael Franz: Sharing for a little bit and Michael Franz: This is our
+Blackboard page. And here's the data dive to which is Michael Franz: The prompt
+for us, or using some of these resources to track campaign fundraising over
+here. I know that. Michael Franz: There are reporting dates, which campaigns
+and party committees and packs up to report to the to the FCC, the Federal
+Election Commission. Michael Franz: And so you can see that the schedule.
+There's a quarterly schedule for congressional campaigns. Michael Franz: Where
+the close of books is September 30 and then they have to file their stuff by
+the middle of October. Michael Franz: There's also a pre general election
+period so midway through October. They also need to summarize their fundraising
+in the first half of the month. Michael Franz: And then report that to the FEC
+by October 20 seconds. So by the 15th AND BY THE 22nd then there'll be some
+lag. Michael Franz: As they get those those data into the into the system will
+see a whole bunch of new fundraising numbers and Spending, and spending values
+for Michael Franz: For our, our campaigns that we're tracking, but right now
+all we have is the July quarterly tools which will take us to the end of June.
+Michael Franz: And so we'll see that in the in the data itself. So there are
+two websites that we're going to use to track all this. The first is Federal
+Election Commission website, which is where I was just was Michael Franz:
+That's where all the data go and in the center for a sponsor of politics, which
+takes all that FEC data and puts it into a usable format for for us and it's
+it's it's it's good. Michael Franz: FEC data has gotten better their websites
+gotten a lot better over the years and Center for Responsive Politics, it's not
+as Michael Franz: I think it's flexible as the FCC, but they both give a
+certain certain things that we can we can do with the data. So if we go to the
+Federal action conditions site. Michael Franz: We're going to do a couple of
+examples. Today we're what we want to do is go up to this campaign finance data
+at the top. Michael Franz: And we're first going to start with the raising
+raising and spending. Those are the two main things we're interested in. So
+when I click on raising Michael Franz: And it's going to bring us to a browse
+data page. And I would say, let's look at all receipts and so will click on all
+receipts. Michael Franz: And all the receipts for all candidates that we have
+so far into entered into the system and so you'll see their hundred and 39
+million rows here is a lot of data. Michael Franz: But we're not going to look
+at, you know, all of it. We want to look at specific hand candidates. So let's
+say we're interested in looking at Michael Franz: Kendra horn, who is a
+congressional candidate. So if we start typing Kendra horn is the recipient
+will see Kendra horn for Congress pop up right over right over here. And so we
+can select her Michael Franz: And then you'll see up top here that we have the
+process data in the system for the 2019 2020 election cycle. Michael Franz:
+Between the dates January 1 2019 and the end of this year for Kendra horn for
+Congress. And so this is all the contributions that Kendra horn has received
+Michael Franz: As reported by the end of the second quarter of 2020 and so the
+recipient is can run for Congress. And here's the contributed name. Michael
+Franz: Okay, and you can see the recipient date state and the election for
+which it was donated so somebody has donated for the primary some money is
+donated for the general Michael Franz: Now this is an interesting example
+because Michael Franz: We're going to run into some interesting challenges
+right off right off the bat. So allow me to go up here and here's the amount
+and I can actually sort this amount. So if I wanted to sort by recipient date.
+Michael Franz: And I go down this way you'll see all the last dates up here are
+June 30 that's the last day that we have data for congressional candidates
+because of the quarterly filing schedule. So let me go up here and sort by
+amount which is the biggest and smallest amounts Michael Franz: And you're
+immediately going to run into some interesting challenges and looking at Kendra
+horn, because you'll see that she got what appears to be a contribution from
+the house victory project 2020 any amount of 200 and almost turning $40,000
+Michael Franz: This is the challenge of using these data because it doesn't
+easily tell us that that's actually not a $240,000 contribution from an outside
+group. Michael Franz: As I showed you in the the slide PowerPoint slide the
+most that Kendra horn can receive from any individual or outside group is much,
+much smaller than that. Michael Franz: So how is this, what is happening here.
+Well, it turns out that a lot. And this is true to behold the house. Victory
+Fund, the New Democratic coalition majority fund. Michael Franz: Maintaining a
+majority and other groups where you see large contributions that seemed to
+exceed the contribution limits. These are what are called Michael Franz: joint
+fundraising committees and they're organized by the parties and are organized
+by candidates who are affiliated with the parties. Michael Franz: And so the
+joint fundraising committee is sort of a fundraising link between the parties
+and the candidates and here's how it might work. Kendra horn. We'll have plenty
+of fundraisers, but she might also decide to fundraise Michael Franz: in
+coordination with her party. And so they might have a big fundraiser where four
+or five members of Congress come together and have a fundraiser. Michael Franz:
+And they all asked everybody there to donate Michael Franz: And instead of
+writing five checks in the five different congressional campaigns and instead
+of writing additional checks to the party committees. Michael Franz: And as I
+mentioned, the party committees have a couple different constituent parts
+running all these different shacks Michael Franz: They work together and they
+create one fund one big old fund. Michael Franz: That collects everything so I
+might write a check. Again, I don't have as much money to do this but I might
+write a check for Michael Franz: $500,000 and then might give that $500,000 to
+the joint fundraising committee with the proviso that Michael Franz: Certain
+chunk goes to Canada horn a certain chunk goes to someone else's certain chunk
+of someone else. It gets allocated out within the limits. Michael Franz: But I
+just write one check because that's easier for me than writing a bunch of
+checks or authorizing a bunch of individual Michael Franz: Separate
+contributions to all the different party committees and candidates. Michael
+Franz: So that's what a fundraiser joint fundraising committee is so the house
+victory project 2020 in this case is transferring $240,000 that was raised for
+Kensal horn. Michael Franz: From individuals and packs who contributed to the
+fund at a fundraiser, probably a fundraiser. Michael Franz: And it's, it's, and
+that's all it is. And so there's other fundraising parties have lots of fun
+racing committees. Michael Franz: It's legal. It just allows individuals to
+write larger checks and then have that money distributed on the back end to
+varieties recipients Michael Franz: And so oftentimes see that if I scroll down
+a little bit, you'll start to see that that drops off pretty fast. Michael
+Franz: And you'll start to see individual people show up Joshua Becker
+Einstein, for example, from Massachusetts donated 50 $600 that 50 $600 is 2800
+Michael Franz: times two times two. So that's one contribution for the primary
+one contribution for the general you see here show up as a general election
+contribution, but because it's 5600 Michael Franz: It's meant to be applied to
+the general and the primary and so you can see I'm assuming this as soon as his
+wife, or maybe Michael Franz: His sister or something, I don't know, probably
+his wife who donated the same thing. And so how does husband and wife spouses
+can do can do that. They're individuals. And so you'll start to see Michael
+Franz: I see a contribution from from the D triple C itself and from House
+Majority pack and another group Emily's list. And these are all $5,000
+contributions, because that's the max. Michael Franz: That parties and packs
+can give to to these candidates, I can kind of keep going and then I start to
+see Michael Franz: More groups. And then once the dollar contribution starting
+a little smaller. I'll start to see individual names show up Rosen and Zander
+Donald Sussman. Okay. Michael Franz: gave some money 20 $800 another 20 $800
+for the general primary Larry stone gave 20 $800 you'll also sometimes see act
+blue and you may have heard about act blue Michael Franz: At blue is kind of
+like a joint fundraising committee, except it's an online platform for you to
+give to lots of candidates in one spot. So instead of going into Kendra horns
+website. Michael Franz: I might go to act blue, and I would contribute to
+Kendra horn and I would contribute to another democrat and I could do it all in
+one platform, instead of having to go to multiple platforms and enter my
+contributions. Michael Franz: And fundraising or credit card information
+separately and actually does and an A on the back end, send the money out to
+the candidates. And so this is a transfer from at Blue Michael Franz: To the
+campaign sending along contributions that individuals gave to the carrot
+actually just access the intermediary Michael Franz: It's totally legal. It's
+just a way to facilitate contributions to Democrats and so you can kind of go
+through here and you can pick apart. Look at all the different all the
+different dumb contributions that Michael Franz: That they gave individuals
+gave. Okay. Michael Franz: Let me do another thing, which is to say, sometimes
+I might say, Well, I want to look at look at. I'm going to take away, Kendra, I
+want to look at Jared gold. Michael Franz: Just looking at my notes here to
+make sure Michael Franz: I did that right okay look at Jared golden from from
+me. So I'm going to go to general golden Michael Franz: And I'm going to see
+something here that's interesting. I'm going to see three Jared golden
+committees, there's the Jared golden Victory Fund. Michael Franz: The Jared
+gold another Jared golden Victory Fund called 2020 and then the committee to
+elect Jericho. So if you're looking at you see these, you might say, well, what
+are these right. What are these. So what if I go to the Jared golden Victory
+Fund. Michael Franz: I won't see anything. So I'll take him off. And I'll go to
+Michael Franz: 2021 let's say it's about a 2020 Michael Franz: See if it pops
+up. Okay, I'll get it. So I'm not gonna have a lot of data here only nine
+things. But let me just click on is Jared golden the recipient Jared golden
+Victory Fund. Michael Franz: It might take a minute to pop them and then you'll
+see some summary information, which I'll talk about in a second. Michael Franz:
+I'll come back to them, but I want to click over here and say about this
+committee, so I'm gonna click on this committee and I want to go to the
+statement of organization. Michael Franz: And so this is the forum file by the
+Jared golden victory fun 2020 and I want to go down here and I'm going to find
+out what type of committee, it is Michael Franz: And look, it says it's a joint
+fundraising representative. What that means is, this is the, the part of the
+joint fundraising. Michael Franz: Apparatus. That is collecting contributions
+on behalf of Jared golden at these these fundraising kind of events. Michael
+Franz: You can see this committee collects contributions paste Fundraising
+Expenses intersperses proceeds for two or more political committees. Michael
+Franz: Organizations, at least one of which is an authorized committee with
+federal candidate so it collects contributions. Michael Franz: Participating
+for the committee to elect Jared golden by so we don't if you run into that
+where you see a couple of different committees with Michael Franz: The set the
+name of the candidate in it. You don't want to, you want to click through and
+you want to find the one is the actual Michael Franz: Campaign Committee, and
+that's going to be the committee to elect Jericho. So I'm gonna go over here
+and I'm going to commit to it. Jerry golden and now I'm going to look and see
+Michael Franz: His numbers. And so I can click on this and I can see okay house
+victory project 2020 he's got 250 $6,000 that's fun joint fundraising proceeds.
+Michael Franz: So, and then I'll scroll down and I'll start to see smaller
+contributions from PAX individuals as I get farther down Michael Franz: Now I
+can go and I can click on the committee to elect Jared gold and it's going to
+take me to a summary page. Michael Franz: And you might want to check this out
+for your candidate as well. This financial summary page is really important.
+It'll say, here the coverage dates January 1 to June 30 Michael Franz: And then
+it will tell me how much contributions, they've received, how much money
+individual how many total contributions from individuals. Michael Franz: And
+then transfers from other committees and how many loans. It's taken out and how
+much money and how much money is spent down over here disbursement. So I get
+some summary information there. Michael Franz: A itemize an itemized
+contributions are really important and itemize individual contribution is a
+contribution from an individual that totals more than $200 Michael Franz: Only
+individual donations greater than $200 will show up on the previous page that I
+showed you Michael Franz: an itemized individual contributions or small
+contributions below the $200 threshold. So if I give a $50 check to Jared
+golden Michael Franz: He's not gonna listen my name on the website. So that's
+considered anonymized individual contribution. So it's a good way to figure out
+how many small donations, a candidate has received Michael Franz: By looking at
+the itemized total against the anonymous tool. And so he's raised four times as
+much money in increments of $200 or more than he has for increments of less
+than $2 so it gives you a sense of how much small donor donor support a
+candidate has Michael Franz: Other committee contributions are pack dollars.
+And so he's got $400,000 and pac money compared to $2 million individual money
+so he's raised a lot more from individuals and he has from from packs so you
+can learn a lot about a campaign sort of profile that way. Michael Franz: Now
+let me go back to the other side, which is the spending, I can do the same
+exact thing for spending, I go to spend it. Michael Franz: And I get
+disbursements disbursements are going to allow me to look up a candidate and
+find out what they spend money on. So let me go and look up, Kendra horn.
+Michael Franz: She'll pop up. You'll see again that the end date is June 30 so
+we don't have new data in there, but I can go sort on amount because I want to
+see how much money she spent the biggest amount on and you can see that she's
+spent $115,000 on a meeting by Michael Franz: online advertising consultants
+more online advertising some printing costs and the farther down, you get, the
+more you know you see payroll and you can see all sorts of interesting things
+they've spent their money on Michael Franz: What's also cool to see the venues.
+So for online advertising. They appear to use the vendor called new blue
+interactive Michael Franz: But for a media buyer for TV ads. They're using sage
+media plan. I don't know anything about those groups, but that's, you know,
+that gives you a sense you could go and even Google those those Michael Franz:
+Companies and find out a little bit about them. They use research services from
+this group called normington pets and Associates. I don't know anything about
+them, you could you could dig around like find some. So who are these
+recipients Michael Franz: They use a fundraising consultant service and they
+use a payroll company, you know, and so forth. If you go all you know you can
+start to see some interesting things with smaller totals. You know, a lot of
+payroll. Michael Franz: A lot of printing. Here's some travel. I must have gone
+to the faith and politics Institute. They paid be stroke Cat Cat cola for
+catering Michael Franz: 20 2101 strategies for graphic design, things like
+that. So it's really interesting to look at the biggest disbursements and see
+who they're who they're using as as consultants and media buyers. Michael
+Franz: So now let me show you the open secrets website so open secrets can use
+the same exact data, but they're going to give us a couple of cool additional
+things we can play with. So I'm going to go here. Michael Franz: And open
+secrets has a lot of stuff on here which want to do is go up to menu and click
+on congressional elections. Michael Franz: And it's going to ask you to look
+real estate or look for a candidate. So I'm going to look for Kendra one
+already looked at the camera. So, there she is. And she's going to search
+Michael Franz: And I'm going to find Kendra horn running in Oklahoma for 2020
+ways and Michael Franz: The interesting piece here is that they'll have more
+data for the incumbents and they will for the challenges. So you can see this
+as hyperlink but Stephanie bias is not hyperlinked so it's a little frustrating
+there. But if you go to the candidates tab. Michael Franz: You'll get some
+information that is also on the FEC site. Michael Franz: But it's it's
+organized here a little bit, maybe more, intuitively, so you can see small
+contributions. This is the anonymized contributions. Michael Franz: Versus the
+large contributions and then they do the percentages for you, versus the pack
+contributions and they also include myself findings and if there's any self
+financing. Michael Franz: They do that for Stephanie based as well so you can
+find out who she's raising money from a lot less paper packs as a percent then
+Kendra horn. Michael Franz: And so that's kind of neat. They also have a tab up
+here for geography that allows you to see. Michael Franz: Where these
+candidates are raising money from in state or out of state. So you can see
+Kendall horn has raised Michael Franz: $1.3 million from out of state and
+Stephanie biases raised, most of the money from in state. So that's kind of
+kind of neat. Michael Franz: And I think that's useful to look at. And because
+oftentimes in state versus out of state money is considered you know better,
+right, if you raising money from within your state or within the district
+versus, you know, Michael Franz: Money coming from the coasts, the evil coasts,
+right. So, or in district or out of district countries. So they have some nice
+geography breakdowns there. Michael Franz: They also tell you a little bit
+about outside spending. So are there any groups spending money, independent of
+the campaigns on their behalf. Michael Franz: And this is data that they get
+also from the FCC and the type of money that's being spent. So the
+congressional leadership fund has been spending money $1.6 million Michael
+Franz: In the race. Michael Franz: And it's color coded by whether they're
+republican leaning or democratic leaning groups. Michael Franz: And so you can
+learn a little bit more about the total money being spent to support or oppose
+these campaigns from outside groups. This is the uncoordinated spending.
+Michael Franz: And then the final tab. That's really interesting. That's really
+new. This cycle is some totals that they can glean from how much money is being
+spent. Michael Franz: Online for advertising. We have pretty good TV data. We
+don't have great we didn't have great Facebook, Google, spending data. You can
+see how much money these candidates are spending. Michael Franz: On these
+different platforms and it doesn't appear to be that they're spending much in
+comparison to, you know, other things. So we saw Kendra horn had paid some
+consultants for Michael Franz: online advertising, we go back over here and we
+go up to the top. Michael Franz: So, excuse me as I go back Michael Franz: You
+can see she is using new blue interactive to spend a fair amount of money on
+digital advertising. What we see so far from that. Michael Franz: Is that she
+hasn't she spent about $100,000 and Stephanie by spending more now in the
+disbursements total this new blue interactive is getting Michael Franz: You
+know 10s of thousands of dollars, which you will use to buy the ads and that's
+what's showing up. Michael Franz: Over here, the money used to buy the ads, but
+they're also taking their own consulting fees and paying themselves. And so the
+total reported in the FTC will always be greater than the total reported
+Michael Franz: Over here, because this is how much money they use to actually
+buy the ads, not to pay the people to make the ads and to, you know, research,
+the ads and so forth. So, so you get a couple of different additional
+interesting pieces of data there. Michael Franz: So that's a lot and you may
+need to go back and kind of rewatch the sort of tutorial but I think you should
+play around with. Michael Franz: The, the FCC and the open secrets center for
+response of politics websites and and try to glean from them what you can have
+the candidates in your race, you're going to run into some challenges and you
+gotta run into some questions. Michael Franz: And that's good because none of
+this is intuitive. So you should write those questions down, bring them to our
+discussion groups. Michael Franz: And asked me about them. And then what we can
+do as a class is we can look them up together, we can go find what you're
+having a hard time understanding and we can troubleshoot it and decipher it and
+figure it out. Michael Franz: I won't have all the answers. I spent a lot of
+time studying this, and I do enjoy trying to piece together all the puzzles but
+you know it's Michael Franz: It is something we can figure out and we should do
+that. So you can dig around and post on a day to die, you can dig around and
+bring those thoughts to the discussion group and you can keep doing that as new
+data. Michael Franz: Arrive into the system and and I look forward to having
+those conversations. So that's my Michael Franz: That's my thoughts on that and
+then I will switch gears in a minute and do lecture two. And then we'll talk
+about that in our second group next week. So thanks a lot, and I look forward
+to. I look forward to our chats. 
